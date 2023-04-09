@@ -1,0 +1,7 @@
+Release/
+/Release
+/.vs
+.vs/
+/.git
+.git/
+imgui.ini
